@@ -1,7 +1,7 @@
 # Control y seguimiento de los pacientes vacunados controla el covid-19
 
 El proyecto fue realizado en la etapa de la universidad, con el fin de tener el control y seguimiento de las personas vacunadas con el covid-19.
-Utilizando con lenguaje de programación Java y MySQL con motor de bases de datos.
+Utilizando como lenguaje de programación Java y MySQL con motor de bases de datos.
 
 ### El proyecto tiene como función:
 
